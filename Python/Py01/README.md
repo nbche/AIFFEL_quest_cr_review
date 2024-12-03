@@ -6,7 +6,7 @@
 # PRT(Peer Review Template)
 - [Y]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 완성되었음
-    <img title="result" alt="Coding Test Result" src="https://8888-wxk35ix5b6mfjantxcfn4vs3j.container-server-prod.aiffel.io/view/fork_test/AIFFEL_quest_cr_review/Python/Py01/Screenshot_haedongmu_coding%20result_1.png">
+    <img title="result" alt="Coding Test Result image" src="https://8888-wxk35ix5b6mfjantxcfn4vs3j.container-server-prod.aiffel.io/view/fork_test/AIFFEL_quest_cr_review/Python/Py01/Screenshot_haedongmu_coding%20result_1.png">
     
     
 - [Y]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
